@@ -6,7 +6,8 @@
 ## Description
 **Tippie College of Business**
 
-#Additional Documentation
-+No additonal documentation at this time.
+##Additional Documentation
+**No additonal documentation at this time.
 
 ##Versioning
+**Graduation 2021
